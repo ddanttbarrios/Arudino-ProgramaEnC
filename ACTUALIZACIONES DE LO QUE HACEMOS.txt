@@ -1,0 +1,2 @@
+primero hicimos un git init y luego un comado para vincular nuestro repositorio creado de GitHub
+ git remote add origin https://github.com/ddanttbarrios/Arudino-ProgramaEnC.git
